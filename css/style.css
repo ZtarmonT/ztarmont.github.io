@@ -125,7 +125,9 @@ nav.navbar{
 /* ===menu=== */
 
 /* ====slider==== */
-
+.slider{
+    width: 100%;
+}
 .carousel-item img{
     height: 857px;
 }
