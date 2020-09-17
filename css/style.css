@@ -167,7 +167,7 @@ nav.navbar{
     
 }
 .title-fotooboi{
-    background: #ffffffd1;
+    background: rgba(310, 310, 310, 0.5 );
     margin-top: 0px;
     margin-bottom: 4px;
     padding-left: 15px;
@@ -182,12 +182,15 @@ nav.navbar{
     text-transform: uppercase;
     margin: 0;
     transform: skew(15deg);
+    -webkit-transform: skew(15deg);
+    -o-transform: skew(15deg);
+    -ms-transform: skew(15deg);
 }
 
 
 
 .title-for{
-    background: #ffffffd1;
+    background: rgba(310, 310, 310, 0.5 );
     margin-left: 8px;
     margin-top: 5px;
     padding-left: 22px;
@@ -203,6 +206,9 @@ nav.navbar{
     font-size: 36px;
     margin: 0px 0px 10px 0px;
     transform: skew(10deg);
+    -webkit-transform: skew(10deg);
+    -o-transform: skew(10deg);
+    -ms-transform: skew(10deg);
     font-weight: bold;
     color: black;
 
