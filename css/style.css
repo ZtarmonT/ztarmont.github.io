@@ -271,7 +271,7 @@ nav.navbar{
     padding: 5px 17px 5px 17px;
 }
 .carousel-inner{
-    height: 857px;
+    height: auto;
 }
 
 /* ====slider==== */
