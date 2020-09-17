@@ -90,7 +90,7 @@ nav.navbar{
     padding: 0px;
 }
 .menu{
-    background: #000000c2;
+    background: rgba(10, 10, 10, 0.6 );
 }
 .list-menu{
     margin: 0 auto;
@@ -143,8 +143,11 @@ nav.navbar{
     position: absolute;
     z-index: 1;
     left: 0;
-    background: #00000096;
+    background: rgba(10, 10, 10, 0.5 );
     clip-path: polygon(0 0, 100% 0, 82% 100%, 0 100%);
+    -ms-clip-path: polygon(0 0, 100% 0, 82% 100%, 0 100%);
+    -o-clip-path: polygon(0 0, 100% 0, 82% 100%, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 82% 100%, 0 100%);
     top: 90px;
 }
 
