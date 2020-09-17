@@ -140,7 +140,7 @@ nav.navbar{
 .black-block-slider{
     min-height: 472px;
     width: 42.2%;
-    position: fixed;
+    position: absolute;
     z-index: 1;
     left: 0;
     background: #00000096;
