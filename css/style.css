@@ -167,7 +167,7 @@ nav.navbar{
     
 }
 .title-fotooboi{
-    background: rgb(255 255 255 / 80%);
+    background: rgba(310, 310, 310, 0.7 );
     margin-top: 0px;
     margin-bottom: 4px;
     padding-left: 15px;
@@ -190,7 +190,7 @@ nav.navbar{
 
 
 .title-for{
-    background: rgb(255 255 255 / 80%);
+    background: rgba(310, 310, 310, 0.7 );
     margin-left: 8px;
     margin-top: 5px;
     padding-left: 22px;
